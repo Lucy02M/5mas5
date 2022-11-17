@@ -111,6 +111,7 @@ button {
   border-bottom: 20px outset #e7cfaa;
   border-left: 7px outset #ceb993;
   border-top: none;
+  outline: 4px outset rgba(38,49,46,0.1);
 }
 
 button:hover {
